@@ -15,7 +15,7 @@ npm run start /resource/data/example1.txt
 ### NOTES
 - Wasn't able to group the anagrams together, printed each anagram on a newline
 - unit test file reader 
-- Big O Analysis O(log n) - was able to read through example2.txt in few seconds
+- Big O Analysis worst case scenario o(n)
 - issues executing on Windows OS from git bash / power shell (must use WSL)
 
 
